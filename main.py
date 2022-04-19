@@ -22,7 +22,7 @@ class IsPrivate(BoundFilter):
 
 @bot.message_handler(IsPrivate(), Command("start", prefixes="/"))
 async def start(message):
-    await message.answer("Send gplinlk to get direct link!")
+    await message.answer("Send gplink to get direct link!")
 
 
 @bot.message_handler(IsPrivate())
