@@ -4,7 +4,7 @@
 - `BOT_TOKEN` : Your telegram bot token from [@BotFather](https://t.me/BotFather)
 
 ## Deploy in Heroku
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ntgspecial/GPLink-Bot)
 
 ## Deploy in your VPS
 
